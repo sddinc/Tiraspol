@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\bin\Debug\netcoreapp3.1\Tiraspol.exe
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\bin\Debug\netcoreapp3.1\Tiraspol.deps.json
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\bin\Debug\netcoreapp3.1\Tiraspol.runtimeconfig.json
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\bin\Debug\netcoreapp3.1\Tiraspol.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\bin\Debug\netcoreapp3.1\Tiraspol.dll
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\bin\Debug\netcoreapp3.1\Tiraspol.pdb
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.Form1.resources
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.AssemblyInfo.cs
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.dll
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.pdb
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.genruntimeconfig.cache
+C:\Users\admin\source\repos\Tiraspol\Tiraspol\obj\Debug\netcoreapp3.1\Tiraspol.Form1 - Copy.resources
