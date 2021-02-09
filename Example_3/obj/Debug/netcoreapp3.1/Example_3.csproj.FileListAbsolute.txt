@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Tiraspol\Example_3\bin\Debug\netcoreapp3.1\Example_3.exe
+C:\Users\admin\source\repos\Tiraspol\Example_3\bin\Debug\netcoreapp3.1\Example_3.deps.json
+C:\Users\admin\source\repos\Tiraspol\Example_3\bin\Debug\netcoreapp3.1\Example_3.runtimeconfig.json
+C:\Users\admin\source\repos\Tiraspol\Example_3\bin\Debug\netcoreapp3.1\Example_3.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Tiraspol\Example_3\bin\Debug\netcoreapp3.1\Example_3.dll
+C:\Users\admin\source\repos\Tiraspol\Example_3\bin\Debug\netcoreapp3.1\Example_3.pdb
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.Form1.resources
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.AssemblyInfo.cs
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.dll
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.pdb
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.genruntimeconfig.cache
+C:\Users\admin\source\repos\Tiraspol\Example_3\obj\Debug\netcoreapp3.1\Example_3.Properties.Resources.resources
